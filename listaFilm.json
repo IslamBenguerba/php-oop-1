@@ -1,0 +1,68 @@
+[
+    {
+        "nomeFilm": "Sans Visa",
+        "annoFilm": 2021,
+        "genere": [
+            "Azione"
+        ],
+        "immagine": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcSHW2zn-e5jOPP6TRpqAoMP7kRu70pqMPXANVGlaaZQOYnP_vGk"
+    },
+    {
+        "nomeFilm": "Fruit Du Demon",
+        "genere": [
+            "Azione"
+        ],
+        "annoFilm": 2019,
+        "immagine": "https:\/\/encrypted-tbn1.gstatic.com\/images?q=tbn:ANd9GcQh9sTD2mCsfPJC8jYuiGMU2l7gO1Rb3-hDCaslpxAPtfGF8Dxc"
+    },
+    {
+        "nomeFilm": "Alice",
+        "annoFilm": 2020,
+        "genere": [
+            "Fantasy",
+            "Azione"
+        ],
+        "immagine": null
+    },
+    {
+        "nomeFilm": "Trasformers",
+        "annoFilm": 2020,
+        "genere": [
+            "Azione"
+        ],
+        "immagine": null
+    },
+    {
+        "nomeFilm": "Dunkirk",
+        "annoFilm": 2017,
+        "genere": [
+            "Azione",
+            "Drammatico"
+        ],
+        "immagine": null
+    },
+    {
+        "nomeFilm": "dunkurk",
+        "annoFilm": 2017,
+        "genere": [
+            "Guerra"
+        ],
+        "immagine": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcSa0w3xw6SObAGZN-wZNANPZrYFtM1uLSRm5fYLzP7A1OjsoK19"
+    },
+    {
+        "nomeFilm": "dunkurk",
+        "annoFilm": 2017,
+        "genere": [
+            "Guerra"
+        ],
+        "immagine": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcSa0w3xw6SObAGZN-wZNANPZrYFtM1uLSRm5fYLzP7A1OjsoK19"
+    },
+    {
+        "nomeFilm": "Avatar",
+        "annoFilm": 2009,
+        "genere": [
+            "Fantasy"
+        ],
+        "immagine": ""
+    }
+]
